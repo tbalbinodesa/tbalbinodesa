@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tbalbinodesa
+- 👀 I’m interested in create delightful apps 
+- 🌱 I’m currently learning Svelte, Rust, Go
