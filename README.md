@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Balbino de Sá</h1>
-<h3 align="center">AI Applied Software Engineering • Frontend & Full-Stack Development • Brazil 🇧🇷</h3>
+<h3 align="center">AI Applied Software Engineering • Frontend & Full-Stack Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Building+AI-powered+products;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation;Frontend+%26+Full-Stack+Engineering" alt="Typing animation" />
@@ -24,15 +24,14 @@
 
 I'm a software engineer focused on **AI Applied Software Engineering**: building practical, production-ready solutions that combine modern software architecture with artificial intelligence.
 
-My background is strongly rooted in **frontend engineering**, **full-stack development**, and **developer experience**. Today, I use that foundation to design AI-powered products, automate workflows, integrate LLMs into real applications, and transform ideas into reliable software.
+My background is strongly rooted in **frontend engineering**, **full-stack development**, and **developer experience**. I bring that foundation to AI-powered products, workflow automation, and practical open-source software.
 
 - 🤖 I build software with **LLMs, AI agents, automation, APIs, and cloud services**
 - 🧠 I'm interested in **RAG, prompt engineering, AI-assisted development, evaluations, and human-in-the-loop systems**
 - 🧩 I connect **product thinking**, **software architecture**, and **AI capabilities** to solve real problems
+- 🌱 I want to collaborate with developers on **open-source tools and AI applied to software engineering**
 - ✍ I write about technology on [Medium](https://medium.com/frontenddescomplicado)
 - 💬 Ask me about **AI applied to software engineering, React, Angular, Vue, TypeScript, and frontend architecture**
-- 📫 Reach me at **tiago.balbino7@gmail.com**
-- 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/tiago-balbino/)
 
 ---
 
@@ -94,17 +93,11 @@ I'm focused on applying AI where it creates measurable engineering and product v
 
 ---
 
-## 🌎 Connect with me
+## 🤝 Let's build in the open
 
-<p align="left">
-  <a href="https://dev.to/tbalbinodesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tbalbinodesa" height="30" width="40" /></a>
-  <a href="https://twitter.com/tbalbinodesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tbalbinodesa" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tiago-balbino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-balbino" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/1073435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1073435" height="30" width="40" /></a>
-  <a href="https://instagram.com/tbalbinodesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tbalbinodesa" height="30" width="40" /></a>
-  <a href="https://medium.com/frontenddescomplicado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/tbalbinodesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tbalbinodesa" height="30" width="40" /></a>
-</p>
+I'm looking to collaborate with developers who enjoy turning useful ideas into **open-source software**, especially projects applying AI to real software engineering workflows.
+
+Interested in building together? Explore my repositories, open an issue, or start a discussion. I'm happy to collaborate on prototypes, improvements, documentation, and experiments that make AI-powered development more useful and reliable.
 
 ---
 
